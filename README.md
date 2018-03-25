@@ -133,3 +133,5 @@ firewall-cmd --reload
 ```
 
 见： https://stackoverflow.com/questions/24729024/open-firewall-port-on-centos-7
+
+> 如果还不行可能是需要去管理网站设置防火墙，参考： https://help.aliyun.com/knowledge_detail/31710.html
